@@ -6,4 +6,4 @@ final = '06/2023'
 values = []
 
 if __name__ == "__main__":
-    Inpc(inicial, final, values)
+    Inpc(inicial, final)
